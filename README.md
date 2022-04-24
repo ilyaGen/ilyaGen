@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ilyaGen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Jacascript(React, Node.JS, TypeScript) and Swift
 - 📫 How to reach me:
   - Email: ilya.ambrazhevich@gmail.com
   - Telegram: @IlyaA1939
